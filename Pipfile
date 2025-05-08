@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+plotly = "*"
+opencv-python = "*"
+ultralytics = "*"
+deep-sort-realtime = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"

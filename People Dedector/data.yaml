@@ -1,0 +1,8 @@
+path: C:\Users\Hp\Documents\Personal\DataScience_AI\AI\People Dedector
+train: ./train/images
+val: ./val/images
+test: ./test/images
+
+nc: 1
+names: ['person']
+
